@@ -1,21 +1,21 @@
-﻿# Handwritten-Digit-Recognition-CNN
+﻿# Spam-SMS-Detector
 
 ## ðŸ“ Description
-Convolutional Neural Network for recognizing handwritten digits (MNIST dataset).
+Machine learning classifier to detect spam SMS messages using NLP techniques.
 
 ## ðŸ› ï¸ Technologies Used
-Python, TensorFlow, Keras, CNN
+Python, Scikit-learn, NLP, Pandas
 
 ## ðŸ“¦ Installation
 
 ```bash
-pip install tensorflow keras numpy matplotlib
+pip install scikit-learn pandas numpy nltk
 ```
 
 ## ðŸš€ Usage
 
 ```bash
-Run the Jupyter notebook
+Run the Jupyter notebook: Spam SMS Detector.ipynb
 ```
 
 ## ðŸ“‹ Features
