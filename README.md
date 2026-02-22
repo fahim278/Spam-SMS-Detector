@@ -1,21 +1,21 @@
-﻿# Spam-SMS-Detector
+﻿# Face_Without_Face_Mask_Detection_System
 
 ## ðŸ“ Description
-Machine learning classifier to detect spam SMS messages using NLP techniques.
+Computer vision system for detecting face masks in real-time.
 
 ## ðŸ› ï¸ Technologies Used
-Python, Scikit-learn, NLP, Pandas
+Python, OpenCV, TensorFlow
 
 ## ðŸ“¦ Installation
 
 ```bash
-pip install scikit-learn pandas numpy nltk
+pip install opencv-python tensorflow
 ```
 
 ## ðŸš€ Usage
 
 ```bash
-Run the Jupyter notebook: Spam SMS Detector.ipynb
+Run the Jupyter notebook
 ```
 
 ## ðŸ“‹ Features
